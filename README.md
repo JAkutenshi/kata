@@ -1,0 +1,2 @@
+# kata
+My training dojo
